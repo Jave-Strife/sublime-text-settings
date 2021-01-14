@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoFileName",
+		"Block Cursor Everywhere",
+		"BracketHighlighter",
+		"Can I Use",
+		"Color Highlighter",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"IMESupport",
+		"Markdown Extended",
+		"MarkdownPreview",
+		"Monokai Extended",
+		"Package Control",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-cppcheck",
+		"SublimeREPL",
+		"SyncedSideBar",
+		"Table Editor",
+		"Theme - Cobalt2",
+		"TrailingSpaces",
+		"Twilight+",
+		"Vue Syntax Highlight"
+	]
+}
